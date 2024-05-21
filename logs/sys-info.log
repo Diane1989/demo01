@@ -1,0 +1,4 @@
+2024-05-17 18:09:31 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-05-17 18:09:31 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-05-17 18:09:31 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-05-17 18:09:31 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

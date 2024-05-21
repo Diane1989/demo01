@@ -1,0 +1,649 @@
+2024-04-23 09:30:20 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 09:30:20 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 09:30:20 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 09:30:20 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 09:30:29 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 83311 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 09:30:29 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 09:30:29 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 09:30:31 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 09:30:32 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 09:30:32 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 09:30:32 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 09:30:32 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 09:30:33 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 09:30:33 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 09:30:33 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 09:30:33 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 3.994 seconds (JVM running for 5.113)
+2024-04-23 09:30:33 [RMI TCP Connection(4)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 09:30:33 [RMI TCP Connection(5)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 09:30:33 [RMI TCP Connection(5)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 09:30:45 [XNIO-1 task-1] INFO  com.aliyun.tea.TeaModel - [com.aliyun.dingtalkworkflow_1_0.models.GetProcessInstanceResponseBody.success] There are some cast events happening. expect: java.lang.String, but: java.lang.Boolean, value: true.
+2024-04-23 10:27:32 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 10:27:32 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 10:27:32 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 10:27:32 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 10:27:39 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 84070 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 10:27:39 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 10:27:39 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 10:27:40 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 10:27:41 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 10:27:41 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 10:27:41 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 10:27:42 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 10:27:42 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 10:27:42 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 10:27:42 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 10:27:42 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 3.483 seconds (JVM running for 4.525)
+2024-04-23 10:27:42 [RMI TCP Connection(2)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 10:27:42 [RMI TCP Connection(1)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 10:27:42 [RMI TCP Connection(1)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 10:28:18 [XNIO-1 task-1] INFO  o.s.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 184 ms
+2024-04-23 10:33:40 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 10:33:40 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 10:33:40 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 10:33:40 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 10:33:45 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 84211 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 10:33:45 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 10:33:45 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 10:33:46 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 10:33:47 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 10:33:47 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 10:33:47 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 10:33:48 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 10:33:48 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 10:33:48 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 10:33:48 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 10:33:48 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 3.375 seconds (JVM running for 4.563)
+2024-04-23 10:33:48 [RMI TCP Connection(5)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 10:33:48 [RMI TCP Connection(4)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 10:33:48 [RMI TCP Connection(4)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 10:36:57 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 10:36:57 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 10:36:57 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 10:36:57 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 10:37:05 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 84295 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 10:37:05 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 10:37:05 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 10:37:06 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 10:37:07 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 10:37:07 [redisson-netty-2-6] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 10:37:07 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 10:37:07 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 10:37:07 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 10:37:07 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 10:37:07 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 10:37:07 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 3.294 seconds (JVM running for 4.654)
+2024-04-23 10:37:08 [RMI TCP Connection(6)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 10:37:08 [RMI TCP Connection(7)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 10:37:08 [RMI TCP Connection(7)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 10:39:38 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 10:39:38 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 10:39:38 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 10:39:38 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 10:39:44 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 84331 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 10:39:44 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 10:39:44 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 10:39:45 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 10:39:46 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 10:39:46 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 10:39:46 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 10:39:46 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 10:39:46 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 10:39:46 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 10:39:46 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 10:39:46 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 3.803 seconds (JVM running for 4.719)
+2024-04-23 10:39:47 [RMI TCP Connection(6)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 10:39:47 [RMI TCP Connection(7)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 10:39:47 [RMI TCP Connection(7)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 10:51:28 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 10:51:28 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 10:51:28 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 10:51:28 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 10:51:34 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 10:51:34 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 84452 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 10:51:34 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 10:51:35 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 10:51:36 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 10:51:36 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 10:51:36 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 10:51:36 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 10:51:36 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 10:51:36 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 10:51:36 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 10:51:36 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 3.016 seconds (JVM running for 4.694)
+2024-04-23 10:51:37 [RMI TCP Connection(6)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 10:51:37 [RMI TCP Connection(7)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 10:51:37 [RMI TCP Connection(7)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 10:55:19 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 10:55:19 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 10:55:19 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 10:55:19 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 10:55:30 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 10:55:30 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 84502 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 10:55:30 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 10:55:32 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 10:55:33 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 10:55:33 [redisson-netty-2-6] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 10:55:33 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 10:55:34 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 10:55:34 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 10:55:34 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 10:55:34 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 10:55:34 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 6.363 seconds (JVM running for 7.615)
+2024-04-23 10:55:35 [RMI TCP Connection(12)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 10:55:35 [RMI TCP Connection(13)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 10:55:35 [RMI TCP Connection(13)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 11:10:03 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 11:10:03 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 11:10:04 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 11:10:04 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 11:10:16 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 84700 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 11:10:16 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 11:10:16 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 11:10:20 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 11:10:20 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 11:10:20 [redisson-netty-2-6] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 11:10:20 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 11:10:21 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 11:10:21 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 11:10:21 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 11:10:21 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 11:10:21 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 6.951 seconds (JVM running for 8.987)
+2024-04-23 11:10:21 [RMI TCP Connection(3)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 11:10:21 [RMI TCP Connection(1)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 11:10:21 [RMI TCP Connection(1)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 11:14:04 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 11:14:04 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 11:14:04 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 11:14:04 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 11:14:15 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 11:14:16 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 84756 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 11:14:16 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 11:14:24 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 11:14:25 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 11:14:25 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 11:14:25 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 11:14:26 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 11:14:26 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 11:14:26 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 11:14:26 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 11:14:26 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 11.413 seconds (JVM running for 13.297)
+2024-04-23 11:14:26 [RMI TCP Connection(22)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 11:14:26 [RMI TCP Connection(23)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 11:14:26 [RMI TCP Connection(23)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 11:17:04 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 11:17:04 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 11:17:04 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 11:17:04 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 11:17:10 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 84805 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 11:17:10 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 11:17:10 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 11:17:11 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 11:17:12 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 11:17:13 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 11:17:13 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 11:17:13 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 11:17:13 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 11:17:13 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 11:17:13 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 11:17:13 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 3.893 seconds (JVM running for 5.24)
+2024-04-23 11:17:14 [RMI TCP Connection(3)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 11:17:14 [RMI TCP Connection(2)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 11:17:14 [RMI TCP Connection(2)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 11:19:27 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 11:19:27 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 11:19:27 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 11:19:27 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 11:19:35 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 11:19:35 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 84867 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 11:19:35 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 11:19:42 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 11:19:43 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 11:19:43 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 11:19:43 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 11:19:43 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 11:19:43 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 11:19:43 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 11:19:43 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 11:19:43 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 9.153 seconds (JVM running for 10.269)
+2024-04-23 11:19:44 [RMI TCP Connection(3)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 11:19:44 [RMI TCP Connection(5)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 11:19:44 [RMI TCP Connection(5)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 11:24:39 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 11:24:39 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 11:24:39 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 11:24:39 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 11:24:51 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 11:24:51 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 84986 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 11:24:51 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 11:24:57 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 11:25:01 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 11:25:02 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 11:25:02 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 11:25:05 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 11:25:05 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 11:25:05 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 11:25:05 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 11:25:06 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 16.005 seconds (JVM running for 18.406)
+2024-04-23 11:25:07 [RMI TCP Connection(13)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 11:25:07 [RMI TCP Connection(12)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 11:25:08 [RMI TCP Connection(13)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 11:28:44 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 11:28:44 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 11:28:44 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 11:28:44 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 11:28:57 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 85045 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 11:28:57 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 11:28:57 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 11:28:59 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 11:29:00 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 11:29:00 [redisson-netty-2-6] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 11:29:00 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 11:29:01 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 11:29:01 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 11:29:01 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 11:29:01 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 11:29:01 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 5.48 seconds (JVM running for 7.996)
+2024-04-23 11:29:02 [RMI TCP Connection(11)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 11:29:02 [RMI TCP Connection(10)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 11:29:02 [RMI TCP Connection(10)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 11:30:46 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 11:30:46 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 11:30:46 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 11:30:46 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 11:31:00 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 11:31:01 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 85091 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 11:31:01 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 11:31:03 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 11:31:04 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 11:31:04 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 11:31:04 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 11:31:04 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 11:31:04 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 11:31:04 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 11:31:05 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 11:31:05 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 6.919 seconds (JVM running for 9.599)
+2024-04-23 11:31:05 [RMI TCP Connection(15)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 11:31:05 [RMI TCP Connection(14)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 11:31:05 [RMI TCP Connection(14)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 11:31:09 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 11:31:09 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 11:31:09 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 11:31:10 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 11:31:20 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 85101 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 11:31:20 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 11:31:20 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 11:31:23 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 11:31:24 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 11:31:24 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 11:31:24 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 11:31:25 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 11:31:25 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 11:31:25 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 11:31:25 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 11:31:25 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 6.165 seconds (JVM running for 8.227)
+2024-04-23 11:31:25 [RMI TCP Connection(20)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 11:31:25 [RMI TCP Connection(21)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 11:31:25 [RMI TCP Connection(21)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 11:49:59 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 11:49:59 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 11:49:59 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 11:49:59 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 11:50:11 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 11:50:11 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 85312 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 11:50:11 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 11:50:13 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 11:50:14 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 11:50:14 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 11:50:14 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 11:50:14 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 11:50:14 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 11:50:14 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 11:50:14 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 11:50:14 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 5.152 seconds (JVM running for 7.046)
+2024-04-23 11:50:14 [RMI TCP Connection(8)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 11:50:15 [RMI TCP Connection(7)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 11:50:15 [RMI TCP Connection(7)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 14:00:07 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 14:00:07 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 14:00:07 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 14:00:07 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 14:00:19 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 14:00:19 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 86381 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 14:00:19 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 14:00:21 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 14:00:22 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 14:00:22 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 14:00:22 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 14:00:23 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 14:00:23 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 14:00:23 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 14:00:23 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 14:00:23 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 5.523 seconds (JVM running for 7.481)
+2024-04-23 14:00:23 [RMI TCP Connection(13)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 14:00:23 [RMI TCP Connection(12)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 14:00:23 [RMI TCP Connection(12)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 14:03:30 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 14:03:30 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 14:03:30 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 14:03:30 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 14:03:40 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 14:03:40 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 86439 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 14:03:40 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 14:03:43 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 14:03:44 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 14:03:44 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 14:03:44 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 14:03:45 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 14:03:45 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 14:03:45 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 14:03:45 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 14:03:45 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 6.217 seconds (JVM running for 8.066)
+2024-04-23 14:03:45 [RMI TCP Connection(16)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 14:03:45 [RMI TCP Connection(17)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 14:03:46 [RMI TCP Connection(17)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 14:05:57 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 14:05:57 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 14:05:57 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 14:05:57 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 14:06:01 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 14:06:01 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 86483 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 14:06:01 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 14:06:02 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 14:06:03 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 14:06:03 [redisson-netty-2-6] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 14:06:03 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 14:06:04 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 14:06:04 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 14:06:04 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 14:06:04 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 14:06:04 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 3.47 seconds (JVM running for 4.53)
+2024-04-23 14:06:04 [RMI TCP Connection(4)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 14:06:04 [RMI TCP Connection(3)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 14:06:04 [RMI TCP Connection(3)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 14:07:21 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 14:07:21 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 14:07:21 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 14:07:21 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 14:07:29 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 14:07:29 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 86501 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 14:07:29 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 14:07:30 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 14:07:31 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 14:07:31 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 14:07:31 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 14:07:32 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 14:07:32 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 14:07:32 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 14:07:32 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 14:07:32 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 3.524 seconds (JVM running for 4.655)
+2024-04-23 14:07:33 [RMI TCP Connection(6)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 14:07:33 [RMI TCP Connection(5)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 14:07:33 [RMI TCP Connection(5)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 14:10:02 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 14:10:02 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 14:10:02 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 14:10:02 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 14:10:16 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 14:10:17 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 86552 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 14:10:17 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 14:10:21 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 14:10:22 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 14:10:22 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 14:10:22 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 14:10:23 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 14:10:23 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 14:10:23 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 14:10:23 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 14:10:23 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 8.314 seconds (JVM running for 10.372)
+2024-04-23 14:10:23 [RMI TCP Connection(5)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 14:10:23 [RMI TCP Connection(3)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 14:10:24 [RMI TCP Connection(3)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 15:26:53 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 15:26:53 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 15:26:53 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 15:26:53 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 15:27:06 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 15:27:06 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 87524 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 15:27:06 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 15:27:12 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 15:27:13 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 15:27:13 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 15:27:13 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 15:27:14 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 15:27:14 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 15:27:14 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 15:27:14 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 15:27:14 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 9.817 seconds (JVM running for 11.955)
+2024-04-23 15:27:14 [RMI TCP Connection(16)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 15:27:14 [RMI TCP Connection(15)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 15:27:14 [RMI TCP Connection(15)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 15:31:04 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 15:31:04 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 15:31:04 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 15:31:04 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 15:31:14 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 15:31:14 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 87584 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 15:31:14 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 15:31:18 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 15:31:19 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 15:31:19 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 15:31:19 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 15:31:19 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 15:31:19 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 15:31:19 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 15:31:19 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 15:31:19 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 7.477 seconds (JVM running for 9.551)
+2024-04-23 15:31:20 [RMI TCP Connection(15)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 15:31:20 [RMI TCP Connection(16)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 15:31:20 [RMI TCP Connection(16)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 15:31:53 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 15:31:53 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 15:31:53 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 15:31:54 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 15:32:00 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 87595 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 15:32:00 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 15:32:00 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 15:32:10 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 15:32:11 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 15:32:11 [redisson-netty-2-6] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 15:32:11 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 15:32:12 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 15:32:12 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 15:32:12 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 15:32:12 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 15:32:12 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 13.071 seconds (JVM running for 15.116)
+2024-04-23 15:32:13 [RMI TCP Connection(4)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 15:32:13 [RMI TCP Connection(5)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 15:32:13 [RMI TCP Connection(5)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 15:39:36 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 15:39:36 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 15:39:36 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 15:39:36 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 15:39:46 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 87693 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 15:39:46 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 15:39:46 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 15:39:47 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 15:39:48 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 15:39:48 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 15:39:48 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 15:39:48 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 15:39:48 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 15:39:48 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 15:39:48 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 15:39:49 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 3.722 seconds (JVM running for 4.564)
+2024-04-23 15:39:49 [RMI TCP Connection(5)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 15:39:49 [RMI TCP Connection(6)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 15:39:49 [RMI TCP Connection(6)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 16:04:27 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 16:04:27 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 16:04:27 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 16:04:27 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 16:04:36 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 87931 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 16:04:36 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 16:04:37 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 16:04:38 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 16:04:39 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 16:04:39 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 16:04:39 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 16:04:40 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 16:04:40 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 16:04:40 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 16:04:40 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 16:04:40 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 5.417 seconds (JVM running for 7.037)
+2024-04-23 16:04:40 [RMI TCP Connection(13)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 16:04:40 [RMI TCP Connection(12)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 16:04:41 [RMI TCP Connection(12)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 16:35:18 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 16:35:18 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 16:35:18 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 16:35:18 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 16:35:30 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 16:35:30 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 88197 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 16:35:30 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 16:35:32 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 16:35:33 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 16:35:33 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 16:35:33 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 16:35:33 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 16:35:33 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 16:35:33 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 16:35:33 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 16:35:34 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 4.746 seconds (JVM running for 7.521)
+2024-04-23 16:35:34 [RMI TCP Connection(7)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 16:35:34 [RMI TCP Connection(6)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 16:35:34 [RMI TCP Connection(6)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 16:55:05 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 16:55:06 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 16:55:06 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 16:55:06 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 16:55:13 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 16:55:13 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 88452 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 16:55:13 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 16:55:17 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 16:55:18 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 16:55:19 [redisson-netty-2-6] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 16:55:19 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 16:55:19 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 16:55:19 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 16:55:19 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 16:55:19 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 16:55:19 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 8.209 seconds (JVM running for 10.008)
+2024-04-23 16:55:20 [RMI TCP Connection(23)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 16:55:20 [RMI TCP Connection(22)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 16:55:20 [RMI TCP Connection(22)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 16:56:48 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 16:56:48 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 16:56:49 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 16:56:49 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 16:56:56 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 16:56:56 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 88480 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 16:56:56 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 16:56:59 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 16:57:01 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 16:57:01 [redisson-netty-2-6] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 16:57:01 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 16:57:02 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 16:57:02 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 16:57:02 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 16:57:02 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 16:57:02 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 7.345 seconds (JVM running for 10.064)
+2024-04-23 16:57:02 [RMI TCP Connection(29)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 16:57:02 [RMI TCP Connection(28)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 16:57:02 [RMI TCP Connection(28)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 16:59:07 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 16:59:07 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 16:59:07 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 16:59:07 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 16:59:17 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 88517 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 16:59:17 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 16:59:17 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 16:59:21 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 16:59:22 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 16:59:22 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 16:59:22 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 16:59:22 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 16:59:22 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 16:59:22 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 16:59:22 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 16:59:23 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 7.36 seconds (JVM running for 8.342)
+2024-04-23 16:59:23 [RMI TCP Connection(10)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 16:59:23 [RMI TCP Connection(9)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 16:59:23 [RMI TCP Connection(9)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 17:01:31 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 17:01:31 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 17:01:31 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 17:01:31 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 17:01:42 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 88575 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 17:01:42 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 17:01:42 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 17:01:50 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 17:01:51 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 17:01:52 [redisson-netty-2-6] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 17:01:52 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 17:01:53 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 17:01:53 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 17:01:53 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 17:01:53 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 17:01:53 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 11.8 seconds (JVM running for 13.122)
+2024-04-23 17:01:53 [RMI TCP Connection(14)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 17:01:53 [RMI TCP Connection(13)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 17:01:54 [RMI TCP Connection(13)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 17:04:11 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 17:04:11 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 17:04:11 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 17:04:11 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 17:09:27 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 1365 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 17:09:27 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 17:09:27 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 17:09:28 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 17:09:29 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 17:09:29 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 17:09:29 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 17:09:29 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 17:09:29 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 17:09:29 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 17:09:29 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 17:09:29 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 2.296 seconds (JVM running for 2.743)
+2024-04-23 17:09:29 [RMI TCP Connection(1)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 17:09:29 [RMI TCP Connection(2)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 17:09:30 [RMI TCP Connection(2)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 17:09:45 [XNIO-1 task-2] INFO  o.s.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 113 ms
+2024-04-23 17:12:04 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 17:12:04 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 17:12:04 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 17:12:04 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 17:12:07 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 1407 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 17:12:07 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 17:12:07 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 17:12:08 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 17:12:08 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 17:12:08 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 17:12:08 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 17:12:09 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 17:12:09 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 17:12:09 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 17:12:09 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 17:12:09 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 2.03 seconds (JVM running for 2.466)
+2024-04-23 17:12:09 [RMI TCP Connection(3)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 17:12:09 [RMI TCP Connection(2)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 17:12:09 [RMI TCP Connection(2)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-04-23 17:13:51 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-04-23 17:13:51 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-04-23 17:13:51 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-04-23 17:13:51 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-04-23 17:13:53 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 1426 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-04-23 17:13:53 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-04-23 17:13:53 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-04-23 17:13:54 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-04-23 17:13:54 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-04-23 17:13:55 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 17:13:55 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-04-23 17:13:55 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-04-23 17:13:55 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-04-23 17:13:55 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-04-23 17:13:55 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-04-23 17:13:55 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 2.261 seconds (JVM running for 2.688)
+2024-04-23 17:13:55 [RMI TCP Connection(2)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-23 17:13:55 [RMI TCP Connection(3)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-04-23 17:13:55 [RMI TCP Connection(3)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.

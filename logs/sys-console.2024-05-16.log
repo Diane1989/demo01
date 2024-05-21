@@ -1,0 +1,151 @@
+2024-05-16 15:35:40 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 30493 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-05-16 15:35:40 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-05-16 15:35:40 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-05-16 15:35:40 [restartedMain] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.dyx]' package. Please check your configuration.
+2024-05-16 15:35:41 [restartedMain] WARN  io.undertow.websockets.jsr - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2024-05-16 15:35:41 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-05-16 15:35:41 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-05-16 15:35:42 [restartedMain] WARN  i.n.r.d.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2024-05-16 15:35:42 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-05-16 15:35:42 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-05-16 15:35:42 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-05-16 15:35:42 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-05-16 15:35:42 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-05-16 15:35:42 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-05-16 15:35:42 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 2.669 seconds (JVM running for 3.247)
+2024-05-16 15:35:42 [RMI TCP Connection(10)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-16 15:35:42 [RMI TCP Connection(11)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-05-16 15:35:43 [RMI TCP Connection(11)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-05-16 15:37:37 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-05-16 15:37:37 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-05-16 15:37:37 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-05-16 15:37:37 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-05-16 15:50:00 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 30797 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-05-16 15:50:00 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-05-16 15:50:00 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-05-16 15:50:00 [restartedMain] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.dyx]' package. Please check your configuration.
+2024-05-16 15:50:01 [restartedMain] WARN  io.undertow.websockets.jsr - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2024-05-16 15:50:01 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-05-16 15:50:01 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-05-16 15:50:01 [restartedMain] WARN  i.n.r.d.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2024-05-16 15:50:01 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-05-16 15:50:01 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-05-16 15:50:02 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-05-16 15:50:02 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-05-16 15:50:02 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-05-16 15:50:02 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-05-16 15:50:02 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 2.425 seconds (JVM running for 2.795)
+2024-05-16 15:50:02 [RMI TCP Connection(2)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-16 15:50:02 [RMI TCP Connection(3)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-05-16 15:50:02 [RMI TCP Connection(3)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-05-16 15:50:09 [XNIO-1 task-4] INFO  o.s.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 112 ms
+2024-05-16 15:53:30 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-05-16 15:53:30 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-05-16 15:53:30 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-05-16 15:53:30 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-05-16 15:53:32 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 30869 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-05-16 15:53:32 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-05-16 15:53:32 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-05-16 15:53:32 [restartedMain] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.dyx]' package. Please check your configuration.
+2024-05-16 15:53:33 [restartedMain] WARN  io.undertow.websockets.jsr - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2024-05-16 15:53:33 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-05-16 15:53:33 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-05-16 15:53:33 [restartedMain] WARN  i.n.r.d.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2024-05-16 15:53:33 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-05-16 15:53:33 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-05-16 15:53:34 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-05-16 15:53:34 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-05-16 15:53:34 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-05-16 15:53:34 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-05-16 15:53:34 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 2.429 seconds (JVM running for 2.767)
+2024-05-16 15:53:34 [RMI TCP Connection(5)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-16 15:53:34 [RMI TCP Connection(4)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-05-16 15:53:34 [RMI TCP Connection(4)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-05-16 15:55:37 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-05-16 15:55:37 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-05-16 15:55:37 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-05-16 15:55:37 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-05-16 15:55:39 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-05-16 15:55:39 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 30874 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-05-16 15:55:39 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-05-16 15:55:39 [restartedMain] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.dyx]' package. Please check your configuration.
+2024-05-16 15:55:40 [restartedMain] WARN  io.undertow.websockets.jsr - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2024-05-16 15:55:40 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-05-16 15:55:40 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-05-16 15:55:41 [restartedMain] WARN  i.n.r.d.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2024-05-16 15:55:41 [redisson-netty-2-6] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-05-16 15:55:41 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-05-16 15:55:41 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-05-16 15:55:41 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-05-16 15:55:41 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-05-16 15:55:41 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-05-16 15:55:41 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 2.689 seconds (JVM running for 3.577)
+2024-05-16 15:55:41 [RMI TCP Connection(6)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-16 15:55:41 [RMI TCP Connection(5)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-05-16 15:55:41 [RMI TCP Connection(5)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-05-16 15:56:38 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-05-16 15:56:38 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-05-16 15:56:38 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-05-16 15:56:38 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-05-16 15:56:40 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 30891 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-05-16 15:56:40 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-05-16 15:56:40 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-05-16 15:56:41 [restartedMain] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.dyx]' package. Please check your configuration.
+2024-05-16 15:56:41 [restartedMain] WARN  io.undertow.websockets.jsr - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2024-05-16 15:56:41 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-05-16 15:56:42 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-05-16 15:56:42 [restartedMain] WARN  i.n.r.d.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2024-05-16 15:56:42 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-05-16 15:56:42 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-05-16 15:56:42 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-05-16 15:56:42 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-05-16 15:56:42 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-05-16 15:56:42 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-05-16 15:56:42 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 2.075 seconds (JVM running for 2.489)
+2024-05-16 15:56:42 [RMI TCP Connection(5)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-16 15:56:42 [RMI TCP Connection(4)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-05-16 15:56:43 [RMI TCP Connection(4)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-05-16 16:00:14 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-05-16 16:00:14 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-05-16 16:00:14 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-05-16 16:00:14 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-05-16 16:00:16 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 30940 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-05-16 16:00:16 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-05-16 16:00:16 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-05-16 16:00:16 [restartedMain] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.dyx]' package. Please check your configuration.
+2024-05-16 16:00:17 [restartedMain] WARN  io.undertow.websockets.jsr - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2024-05-16 16:00:17 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-05-16 16:00:17 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-05-16 16:00:17 [restartedMain] WARN  i.n.r.d.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2024-05-16 16:00:17 [redisson-netty-2-5] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-05-16 16:00:17 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-05-16 16:00:18 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-05-16 16:00:18 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-05-16 16:00:18 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-05-16 16:00:18 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-05-16 16:00:18 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 2.06 seconds (JVM running for 2.435)
+2024-05-16 16:00:18 [RMI TCP Connection(1)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-16 16:00:18 [RMI TCP Connection(2)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-05-16 16:00:18 [RMI TCP Connection(2)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-05-16 16:03:51 [SpringApplicationShutdownHook] INFO  io.undertow - stopping server: Undertow - 2.2.24.Final
+2024-05-16 16:03:51 [SpringApplicationShutdownHook] INFO  io.undertow.servlet - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-05-16 16:03:51 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-05-16 16:03:51 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-05-16 16:03:53 [restartedMain] INFO  com.dyx.DemoApplication - Starting DemoApplication using Java 1.8.0_401 on DianeMac.lan with PID 31005 (/Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo/demo/target/classes started by diane in /Users/diane/Desktop/JAVA/AJAVA/SpringBoot-Demo)
+2024-05-16 16:03:53 [restartedMain] INFO  com.dyx.DemoApplication - The following 1 profile is active: "dev"
+2024-05-16 16:03:53 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+2024-05-16 16:03:54 [restartedMain] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.dyx]' package. Please check your configuration.
+2024-05-16 16:03:54 [restartedMain] WARN  io.undertow.websockets.jsr - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2024-05-16 16:03:54 [restartedMain] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2024-05-16 16:03:54 [restartedMain] INFO  org.redisson.Version - Redisson 3.20.1
+2024-05-16 16:03:54 [restartedMain] WARN  i.n.r.d.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+2024-05-16 16:03:55 [redisson-netty-2-6] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for localhost/127.0.0.1:6379
+2024-05-16 16:03:55 [redisson-netty-2-20] INFO  o.r.c.pool.MasterConnectionPool - 24 connections initialized for localhost/127.0.0.1:6379
+2024-05-16 16:03:55 [restartedMain] INFO  io.undertow - starting server: Undertow - 2.2.24.Final
+2024-05-16 16:03:55 [restartedMain] INFO  org.xnio - XNIO version 3.8.7.Final
+2024-05-16 16:03:55 [restartedMain] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.8.7.Final
+2024-05-16 16:03:55 [restartedMain] INFO  org.jboss.threads - JBoss Threads version 3.1.0.Final
+2024-05-16 16:03:55 [restartedMain] INFO  com.dyx.DemoApplication - Started DemoApplication in 2.085 seconds (JVM running for 2.611)
+2024-05-16 16:03:55 [RMI TCP Connection(2)-172.18.0.74] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-16 16:03:55 [RMI TCP Connection(3)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-05-16 16:03:55 [RMI TCP Connection(3)-172.18.0.74] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
